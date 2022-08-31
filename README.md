@@ -1,5 +1,5 @@
 # Reverse-Image-Search-Scraper
-This python notebook can search across the 3 following reverse image search engines to scrape image data:
+This python notebook can search simultaneously across the 3 following reverse image search engines to scrape image data:
 
 <img src="https://github.com/Cescollino/Reverse-Image-Search-Scraper/blob/main/Pasted%20image%2020220831175725.png" width="100">
 <img src="https://github.com/Cescollino/Reverse-Image-Search-Scraper/blob/main/Pasted%20image%2020220831175806.png" width="100">
