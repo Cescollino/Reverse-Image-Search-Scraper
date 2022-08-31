@@ -21,6 +21,9 @@ You may change the file_path variable to be the absolute path of the image you a
 ## Result Path
 You may change result_path to be the absolute path of the directory you are trying to store your images in.
 
+## Number of Results
+You may change the number of results gathered by each engine by changing: "max_count=100" in the last cell of the notebook
+
 # Output
 This program will output image files to the directory with the following nomenclature:
 
