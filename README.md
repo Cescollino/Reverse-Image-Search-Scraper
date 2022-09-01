@@ -1,9 +1,9 @@
 # Reverse-Image-Search-Scraper
-This python notebook can search across the 3 following reverse image search engines to scrape image data:
+This python notebook can search simultaneously across the 3 following reverse image search engines to scrape image data:
 
-![[Pasted image 20220831175725.png]]
-![[Pasted image 20220831175749.png]]
-![[Pasted image 20220831175806.png]]
+<img src="https://github.com/Cescollino/Reverse-Image-Search-Scraper/blob/main/Pasted%20image%2020220831175725.png" width="100">
+<img src="https://github.com/Cescollino/Reverse-Image-Search-Scraper/blob/main/Pasted%20image%2020220831175806.png" width="100">
+<img src="https://github.com/Cescollino/Reverse-Image-Search-Scraper/blob/main/Pasted%20image%2020220831175749.png" width="100">
 
 # Installing Environment
 The requirements.txt can be used to create a `conda` virtual environment with
@@ -21,9 +21,13 @@ You may change the file_path variable to be the absolute path of the image you a
 ## Result Path
 You may change result_path to be the absolute path of the directory you are trying to store your images in.
 
+## Number of Results
+You may change the number of results gathered by each engine by changing: "max_count=100" in the last cell of the notebook
+
 # Output
 This program will output image files to the directory with the following nomenclature:
 
 jpg_"Image Number"\_EngineID\_ "Search Engine ID".jpg
 
-![[Pasted image 20220831175528.png]]
+
+![This is an image](https://github.com/Cescollino/Reverse-Image-Search-Scraper/blob/main/Pasted%20image%2020220831175528.png)
