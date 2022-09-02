@@ -31,3 +31,6 @@ jpg_"Image Number"\_EngineID\_ "Search Engine ID".jpg
 
 
 ![This is an image](https://github.com/Cescollino/Reverse-Image-Search-Scraper/blob/main/Pasted%20image%2020220831175528.png)
+
+# Deduplicating Images
+For image nearly similar image deduplication using perceptual hashing, please refer to [imgdupes](https://github.com/knjcode/imgdupes)
