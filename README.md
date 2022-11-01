@@ -24,13 +24,15 @@ Virtualenv:
 `source scraper/bin/activate`
 `pip install -r requirements.txt`
 
-![image](https://user-images.githubusercontent.com/67806795/199279258-6f63bd16-7e68-4bb5-9110-d1a1c9f0e216.png)
 
 Once the environment is made, you may open Jupyter Lab and load the notebook, you may use the following command on a terminal:
 `jupyter lab`
 
 Open the [Reverse Image Search Scraper.ipynb](/Reverse-Image-Search-Scraper/) in jupyter lab.
 Uncomment the first cell and run it once, then comment it again. If there are no errors, you are good to go.
+
+You should see this output:
+![image](https://user-images.githubusercontent.com/67806795/199279258-6f63bd16-7e68-4bb5-9110-d1a1c9f0e216.png)
 
 # Defining Paths
 Go to the " # Hardcoded File Paths & Run " group of cells
